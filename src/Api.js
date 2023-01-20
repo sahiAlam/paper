@@ -14,6 +14,11 @@ const linkData = [
     text: "Vanderwaal Gas",
     href: "./differentiation_vander_wall_gas.f",
   },
+  {
+    id: 4,
+    text: "3D velocity Tropizoial",
+    href: "./SOVAN123.f",
+  },
 ];
 
 export default linkData;
